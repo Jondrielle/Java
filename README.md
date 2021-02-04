@@ -1,2 +1,2 @@
 # Java
-Programs in Java.
+Programs in Java. Let's get started!
